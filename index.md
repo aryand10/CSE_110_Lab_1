@@ -1,13 +1,18 @@
-# **Aryan Desai**
+# **Aryan Desai User Page**
 ![Image](ProfilePic.jpeg)
 ___
 Hi! I'm Aryan and I'm a second year student at the [University of California, San Diego](https://ucsd.edu), majoring in Computer Engineering!
 
 ## Table of Contents
 ---
-* CSE Coursework
-* Familiar Programming Languages
-* Formula One
+- [**Aryan Desai User Page**](#aryan-desai-user-page)
+  - [Table of Contents](#table-of-contents)
+  - [CSE Coursework](#cse-coursework)
+  - [Familiar Programming Languages](#familiar-programming-languages)
+  - [Formula One](#formula-one)
+    - [Favorite F1 Drivers](#favorite-f1-drivers)
+    - [Favorite F1 Livery](#favorite-f1-livery)
+    - [F1 Races I've Been At](#f1-races-ive-been-at)
 
 ## CSE Coursework
 ____
@@ -39,6 +44,9 @@ ___
 System.out.print("Hello World!);
 ```
 ## Formula One
+---
+I'm incredibly passionate about motorsports, specifically Formula One. Here's some of my background and takes about Formula One!
+
 ---
 ### Favorite F1 Drivers
 ---
