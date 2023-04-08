@@ -29,7 +29,7 @@ I've thus far completed or am actively completing the following CSE courses here
 
 ## Familiar Programming Languages
 ___
-```
+
 - Java
 - JavaScript
 - HTML
@@ -38,7 +38,7 @@ ___
 - C
 - C++
 - Assembly (ARM32)
-```
+
 > Here's an example of Java Code :)
 ```
 System.out.print("Hello World!);
