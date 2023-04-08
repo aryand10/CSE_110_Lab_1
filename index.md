@@ -50,11 +50,11 @@ I'm incredibly passionate about motorsports, specifically Formula One. Here's so
 ---
 ### Favorite F1 Drivers
 ---
-1) Sebastian Vettel
-2) Carlos Sainz
-3) Ayrton Senna
-4) Lewis Hamilton
-5) Lando Norris
+1. Sebastian Vettel
+2. Carlos Sainz
+3. Ayrton Senna
+4. Lewis Hamilton
+5. Lando Norris
 ### Favorite F1 Livery
 ---
 Check out [this](Carlos_Sainz_Jr_2017_Malaysia_FP2_2.jpg) picture of my favorite F1 livery from recent years!
